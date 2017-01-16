@@ -1,0 +1,9 @@
+{
+	"GCS": {
+		"bucket_name": "BUCKET_NAME",
+		"protocol": "https://",
+		"project_id": "GOOGLE_PROJECT_ID",
+		"storage_id": "GCS_STORAGE_ID",
+		"storage_secret": "GCS_STORAGE_SECRET"
+	}
+}

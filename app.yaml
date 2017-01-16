@@ -1,0 +1,11 @@
+application: APPLICATION_NAME
+module: MODULE_NAME
+api_version: go1
+version: VERSION
+vm: true
+runtime: go
+
+handlers:
+- url: /.*
+  script: _go_app
+  secure: always
